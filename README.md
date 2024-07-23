@@ -7,6 +7,6 @@ www.roodypoocandya**.com
 - **list of**
 - *ingredients*
 - ***here***
-  
+  ![Can of Whoop A**](recipe.png)
 last line changed locally
 This is a LOCAL change :)
